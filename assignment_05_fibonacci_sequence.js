@@ -1,7 +1,4 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 5
-// Fibonacci Sequence Generator
-// =============================================================================
+
 
 const readlineSync = require("readline-sync");
 

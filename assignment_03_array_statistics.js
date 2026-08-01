@@ -1,7 +1,4 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 3
-// Array Statistics Calculator
-// =============================================================================
+
 
 const readlineSync = require("readline-sync");
 

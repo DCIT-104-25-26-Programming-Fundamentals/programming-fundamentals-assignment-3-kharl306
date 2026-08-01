@@ -1,7 +1,4 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 4
-// Matrix Operations
-// =============================================================================
+
 
 const readlineSync = require('readline-sync');
 

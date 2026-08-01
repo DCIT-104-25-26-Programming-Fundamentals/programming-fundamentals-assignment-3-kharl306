@@ -1,7 +1,4 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 7
-// Console-Based To-Do List Application
-// =============================================================================
+
 
 const readlineSync = require("readline-sync");
 

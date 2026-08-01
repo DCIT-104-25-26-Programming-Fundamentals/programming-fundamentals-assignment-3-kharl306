@@ -1,7 +1,4 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 9
-// Console-Based Simple Calculator
-// =============================================================================
+
 
 const readlineSync = require("readline-sync");
 

@@ -1,7 +1,4 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 1
-// Prime Number Checker
-// =============================================================================
+
 
 const readlineSync = require("readline-sync");
 

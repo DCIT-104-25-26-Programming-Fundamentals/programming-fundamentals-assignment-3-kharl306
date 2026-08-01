@@ -1,7 +1,3 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 6
-// Multiplication Table Generator
-// =============================================================================
 
 const readlineSync = require("readline-sync");
 

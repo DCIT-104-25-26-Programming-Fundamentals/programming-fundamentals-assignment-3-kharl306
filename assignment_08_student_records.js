@@ -1,7 +1,4 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 8
-// Student Record Management System
-// =============================================================================
+
 
 const readlineSync = require("readline-sync");
 

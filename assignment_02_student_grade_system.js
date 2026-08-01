@@ -1,7 +1,3 @@
-// =============================================================================
-// PROGRAMMING FUNDAMENTALS — Assignment 2
-// Student Grade System
-// =============================================================================
 
 const readlineSync = require("readline-sync");
 
